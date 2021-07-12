@@ -1,0 +1,41 @@
+body {
+    background-color: lightblue;
+    }
+    
+    h1 {
+    color: rgb(0, 187, 255);
+    text-align: center;
+    font-size: 40px;
+    }
+
+    h3 {
+        color: rgb(138, 2, 22);
+        text-align: left;
+        font-size: 28px;
+        }
+    
+    p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    }
+
+    li {
+        font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    }
+
+    img {
+        border-radius: 50%;
+        padding: 5px;
+        width: 900px;
+        margin: 0 auto;
+      }
+
+
+      p:hover{
+        color: red;
+    }
+
+    li:hover{
+        color: rebeccapurple;
+    }
